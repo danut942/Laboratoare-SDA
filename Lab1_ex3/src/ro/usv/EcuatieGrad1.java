@@ -37,7 +37,7 @@ public class EcuatieGrad1 {
             x = (-b/a);
             System.out.println("=> x="+x+"\n");
         }else{
-            System.out.println("result is infinite");
+            System.out.println("result is undefined");
         }
     }
 

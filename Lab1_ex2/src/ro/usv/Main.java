@@ -20,7 +20,7 @@ class Factorial {
             }else
             {
                 //next() is a method of Java Scanner class which finds and returns the next complete token from the scanner which is in using
-                System.out.println(kb.next()+ " Is not an integer");
+                System.out.println(kb.next() + " Is not an integer");
                 break;
             }
         }
