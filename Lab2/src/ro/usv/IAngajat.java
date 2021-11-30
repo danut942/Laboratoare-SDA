@@ -1,6 +1,11 @@
 package ro.usv;
 
-public abstract class Angajat extends Persoana{
+public interface IAngajat {
+    public static final double salariuOrarMinim=15;
+    public int setNrOreLucrate(int nrOreLucrate);
+    public double salariu();
+}
+/*public abstract class Angajat extends Persoana{
     private static double salariu_orar_minim=15;
     private int nrOreLucrate;
     private int id;
@@ -29,4 +34,4 @@ public abstract class Angajat extends Persoana{
         Persoana p = new Persoana("Ion","Vasile");
         System.out.println(p);
     }
-}
+}*/
