@@ -7,6 +7,5 @@ public class Main {
         double d1 = 0.0;
         Double d2 = 0.0;
 
-        d2.
     }
 }
