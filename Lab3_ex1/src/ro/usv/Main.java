@@ -3,7 +3,7 @@ package ro.usv;
 import java.util.Comparator;
 
 public class Main {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
 
         NavaCroaziera sv = new NavaCroaziera("Suceava","Ro",1000);
         System.out.print(sv + "Utilizare: ");
