@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaFxDemo.iml" filepath="$PROJECT_DIR$/JavaFxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaFxDemo10/JavaFxDemo10.iml" filepath="$PROJECT_DIR$/../JavaFxDemo10/JavaFxDemo10.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaFxDemo2/JavaFxDemo2.iml" filepath="$PROJECT_DIR$/../JavaFxDemo2/JavaFxDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaFxDemo7/JavaFxDemo7.iml" filepath="$PROJECT_DIR$/../JavaFxDemo7/JavaFxDemo7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaFxDemo8/JavaFxDemo8.iml" filepath="$PROJECT_DIR$/../JavaFxDemo8/JavaFxDemo8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaFxDemo9/JavaFxDemo9.iml" filepath="$PROJECT_DIR$/../JavaFxDemo9/JavaFxDemo9.iml" />
     </modules>
   </component>
 </project>
