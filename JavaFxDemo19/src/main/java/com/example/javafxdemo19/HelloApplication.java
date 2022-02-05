@@ -60,9 +60,9 @@ public class HelloApplication extends Application {
 
         //Buttons
         Button addbtn = new Button("Add");
-        Button delbtn = new Button("Delete");
-
         addbtn.setOnAction(e -> addbtnClicked());
+
+        Button delbtn = new Button("Delete");
         delbtn.setOnAction(e -> delbtnClicked());
 
         HBox hbox = new HBox();

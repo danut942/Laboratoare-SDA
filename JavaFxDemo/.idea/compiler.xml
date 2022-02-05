@@ -6,16 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JavaFxMLDemo31" />
+        <module name="JavaFxMLDemo33" />
         <module name="JavaFxDemo11" />
+        <module name="JavaFxDemo34SceneBuilder" />
         <module name="JavaFxDemo10" />
+        <module name="JavaFxDemo21" />
+        <module name="JavaFxDemo30" />
         <module name="JavaFxDemo15" />
         <module name="JavaFxDemo" />
         <module name="JavaFxDemo14" />
+        <module name="JavaFxDemo25" />
         <module name="JavaFxDemo13" />
         <module name="JavaFxDemo12" />
         <module name="JavaFxModeltest2" />
         <module name="JavaFxDemo19" />
+        <module name="JavaFxDemo29" />
         <module name="JavaFxDemo17" />
+        <module name="JavaFxDemo28" />
         <module name="JavaFxDemo2" />
         <module name="JavaFxDemo16" />
         <module name="JavaFxModelTest2_3" />
@@ -36,9 +44,17 @@
       <module name="JavaFxDemo17" target="17" />
       <module name="JavaFxDemo19" target="17" />
       <module name="JavaFxDemo2" target="17" />
+      <module name="JavaFxDemo21" target="17" />
+      <module name="JavaFxDemo25" target="17" />
+      <module name="JavaFxDemo28" target="17" />
+      <module name="JavaFxDemo29" target="17" />
+      <module name="JavaFxDemo30" target="17" />
+      <module name="JavaFxDemo34SceneBuilder" target="17" />
       <module name="JavaFxDemo7" target="17" />
       <module name="JavaFxDemo8" target="17" />
       <module name="JavaFxDemo9" target="17" />
+      <module name="JavaFxMLDemo31" target="17" />
+      <module name="JavaFxMLDemo33" target="17" />
       <module name="JavaFxModeltest2" target="17" />
       <module name="JavaFxModelTest2_3" target="17" />
     </bytecodeTargetLevel>
